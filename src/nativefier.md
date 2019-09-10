@@ -1,0 +1,1 @@
+nativefier --name "Asana" --inject "/Users/philhedayatnia/code/asana.css" --title-bar-style "hidden" --icon "/Users/philhedayatnia/code/asana.icns" "https://app.asana.com" --internal-urls "accounts\.google\.com.*" --title-bar-style 'hiddenInset'

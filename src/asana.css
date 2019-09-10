@@ -1,0 +1,438 @@
+.Sidebar {
+  background-color: white !important;
+}
+
+.SidebarHeader-asanaLogo {
+  background-image: url(https://cdn.theorg.com/ac7bcdf2-8882-43f6-97e5-c42fb00a9c5c_small.png) !important;
+  background-size: 17px 17px !important;
+}
+
+.SidebarItemRow,
+.SidebarItemRow:link,
+.SidebarItemRow:visited {
+  color: #222b37 !important;
+  font-weight: 600 !important;
+}
+
+.Sidebar-section {
+  border-bottom: none !important;
+}
+
+.SidebarCollapsibleHeader-name {
+  text-transform: uppercase !important;
+  letter-spacing: 2px !important;
+  font-weight: 700 !important;
+  opacity: 0.7 !important;
+}
+
+.SidebarItemRow.is-selected,
+.SidebarReportsItemRow.is-selected,
+.SidebarDefaultSearchRow.is-selected {
+  background-color: #ff5263 !important;
+  color: white !important;
+  font-weight: 700 !important;
+}
+
+.SidebarItemRow.is-selected > svg {
+  fill: white !important;
+}
+
+.SidebarItemRow.is-selected:hover,
+.SidebarReportsItemRow.is-selected:hover,
+.SidebarDefaultSearchRow.is-selected:hover {
+  background-color: #ff5263 !important;
+  opacity: 0.85 !important;
+}
+
+.NavigationLink.SidebarItemRow,
+.SidebarReportsItemRow,
+.SidebarDefaultSearchRow {
+  margin-left: 10px !important;
+  margin-right: 10px !important;
+  border-radius: 4px !important;
+  margin-bottom: 4px !important;
+}
+
+.NavigationLink.SidebarItemRow {
+  padding-left: 12px !important;
+  padding-right: 12px !important;
+}
+
+a.NavigationLink.SidebarHeader-asanaLogo {
+  background-color: white !important;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  background-position: center !important;
+  z-index: 999 !important;
+}
+
+.Sidebar.lunauiSidebarView-sidebarRoot {
+  overflow: hidden !important;
+}
+
+.SidebarTopNavLinks.Sidebar-section.Sidebar-firstSection {
+  border-bottom: 1px solid #e7ebec !important;
+}
+
+.SidebarInvite.Sidebar-invite {
+  display: none !important;
+}
+
+.Sidebar-browseMoreTeams {
+  display: none !important;
+}
+
+.PageToolbarStructure--withShadow {
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+  box-shadow: none !important;
+  background-color: transparent !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  border-top: none !important;
+}
+
+.AsanaPageTopbar {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  background: white !important;
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+  border-bottom: 1px #e8ebec solid !important;
+}
+
+.TopbarPageHeaderGlobalActions {
+  background-color: transparent !important;
+}
+
+.TopbarSearchTypeahead-background {
+  background-color: transparent !important;
+}
+
+.TopbarSearchTypeahead-background::before {
+  background-image: none !important;
+}
+
+.react-mount-node.sidebar-mountNode {
+  background-color: white !important;
+}
+
+.Sidebar.lunauiSidebarView-sidebarRoot {
+  border-right: 1px #e8ebec solid !important;
+}
+
+.Home {
+  background: none !important;
+}
+
+.FakePageHeaderBoxShadow-shadowVisible.FakePageHeaderBoxShadow {
+  background-color: white !important;
+  height: 70px !important;
+  top: -70px !important;
+  box-shadow: none !important;
+  border-bottom: 1px solid #e7ebec !important;
+}
+
+.HomeTasksForTodaySection-tasks {
+  background-color: white !important;
+  border: 1px solid #e7ebec !important;
+  border-radius: 4px !important;
+  box-shadow: none !important;
+}
+
+.HomeTasksForTodaySection-tasks {
+  background-color: white !important;
+}
+
+.AsanaPageTopbar {
+  box-shadow: none !important;
+}
+
+.PortfolioIndexPageView {
+  background-color: transparent !important;
+}
+
+.PortfolioGrid {
+  background-color: transparent !important;
+}
+
+.PortfolioPage-list {
+  background-color: transparent !important;
+}
+
+.SpreadsheetGridHeaderStructure.SpreadsheetGridHeaderStructure--withShadow {
+  box-shadow: none !important;
+}
+
+.PortfolioGridPageToolbar {
+  background-color: white !important;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+  height: 40px !important;
+}
+
+.SpreadsheetGridHeaderStructure {
+  background: white !important;
+}
+
+.SpreadsheetGridHeaderStructure-left {
+  background: white !important;
+}
+
+.HomeTasksForTodaySection-tasks {
+  background-color: white !important;
+}
+
+.AsanaPageTopbar {
+  box-shadow: none !important;
+}
+
+.PortfolioIndexPageView {
+  background-color: transparent !important;
+}
+
+.PortfolioGrid {
+  background-color: transparent !important;
+}
+
+.PortfolioPage-list {
+  background-color: transparent !important;
+}
+
+.SpreadsheetGridHeaderStructure.SpreadsheetGridHeaderStructure--withShadow {
+  box-shadow: none !important;
+}
+
+.PortfolioGridPageToolbar {
+  background-color: white !important;
+  padding-right: 20px !important;
+  padding-left: 20px !important;
+  height: 40px !important;
+}
+
+.SpreadsheetGridHeaderStructure {
+  background: white !important;
+}
+
+.SpreadsheetGridHeaderStructure-left {
+  background: white !important;
+}
+
+.HeaderPortfolioRow-leftChild {
+  background: white !important;
+}
+
+.Button.Button--xsmall.Button--secondary.ProjectHeaderFacepile-joinOrShareButton {
+  display: none !important;
+}
+
+a.CircularButton.CircularButton--enabled.CircularButton--medium.CircularButton--borderless.ProjectPageHeader-info {
+  display: none !important;
+}
+
+.Button.Button--xsmall.Button--secondary.ProjectHeaderFacepile-joinOrShareButton {
+  display: none !important;
+}
+
+a.CircularButton.CircularButton--enabled.CircularButton--medium.CircularButton--borderless.ProjectPageHeader-info {
+  display: none !important;
+}
+
+.PageToolbarStructure {
+  width: fit-content !important;
+  margin: auto !important;
+  margin-top: 10px !important;
+  margin-bottom: -10px !important;
+}
+
+.PageToolbarStructure-leftChildren {
+  font-weight: 600 !important;
+  margin-right: 10px !important;
+}
+
+.SidebarTeamMembershipHeader-teamName,
+.SidebarTeamMembershipHeader--collapsed .SidebarTeamMembershipHeader-teamName,
+.SidebarDefaultSearchRow,
+.SidebarDefaultSearchRow:link,
+.SidebarDefaultSearchRow:visited,
+.SidebarReportsItemRow,
+.SidebarReportsItemRow:link,
+.SidebarReportsItemRow:visited {
+  font-weight: 600 !important;
+  color: #222b37 !important;
+}
+
+.SidebarTeamMembershipHeader-zipIcon,
+.SidebarTeamMembershipHeader-zipIcon:hover {
+  fill: #646f79 !important;
+}
+
+.SidebarTeamMembership > .SidebarTeamMembership-droppableTeamHeader,
+.SidebarDefaultSearchRow,
+.SidebarDefaultSearchRow:link,
+.SidebarDefaultSearchRow:visited {
+  font-weight: 600 !important;
+}
+
+.SidebarTeamMembershipHeader-teamName {
+  font-weight: 600 !important;
+  color: #848f99 !important;
+}
+
+.SidebarTeamMembershipHeader-zipIcon {
+  fill: #646f79 !important;
+}
+
+.PageToolbarStructure.CalendarPageToolbar {
+  align-items: center !important;
+  background-color: transparent !important;
+  border-bottom: none !important;
+  border-top: none !important;
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+  flex: 0 0 auto !important;
+  height: 35px !important;
+  width: -webkit-fill-available !important;
+}
+
+.CalendarBody-dayOfWeekLabels {
+  background-color: #f6f8f9 !important;
+  margin: 0px !important;
+}
+
+.ProjectProgress {
+  background: none !important;
+}
+
+.Timeline {
+  border-top: none !important;
+}
+
+.Button.Button--small.Button--primary.PortfolioGridPageToolbar-addProjectButton {
+  position: fixed !important;
+  bottom: 20px !important;
+  right: 20px !important;
+  border-radius: 9999px !important;
+  padding: 20px !important;
+}
+
+.PortfolioGridPageToolbar {
+  margin-bottom: 0px !important;
+  background: none !important;
+}
+
+.SpreadsheetGridScroller-container {
+  border-radius: 4px !important;
+  border-bottom-left-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+  background-color: #fff !important;
+  box-shadow: 0 1px 3px 0 rgba(21, 27, 38, 0.15) !important;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+  margin-top: 0px !important !important;
+  margin-bottom: 0px !important;
+  max-width: -webkit-fill-available !important;
+  overflow: hidden !important;
+}
+
+.PageToolbarStructure--withoutTopBorder.PageToolbarStructure--withoutBottomBorder.PageToolbarStructure.PortfolioGridPageToolbar {
+  margin-top: 0px !important;
+}
+
+.PageToolbarStructure--withoutTopBorder.PageToolbarStructure--withoutBottomBorder.PageToolbarStructure.PortfolioGridPageToolbar {
+  margin-top: 0px !important;
+}
+
+.InboxFeedHeader {
+  position: absolute !important;
+  width: -webkit-fill-available !important;
+  background: white !important;
+  z-index: 99 !important;
+  top: 0px !important;
+}
+
+.scrollable.scrollable--vertical.InboxFeed-scrollable {
+  margin-top: 50px !important;
+}
+
+.Omnibutton--withoutSpreadsheetGrid.Button--primary,
+.Omnibutton--withoutSpreadsheetGrid:not(.Button--disabled) {
+  background: #ff5263 !important;
+}
+
+.SpreadsheetRow-stickyCell {
+  margin-left: -5px !important;
+}
+
+.dialog--nux-footer {
+  display: none !important;
+}
+
+.dialog--nux.dialog-page {
+  background: #ffffff;
+}
+
+.dialog--nux-content {
+  box-shadow: none !important;
+  margin-top: 40px !important;
+}
+
+.dialog--nux-header {
+  display: none !important;
+}
+
+.SidebarTeamMembersList-facepile .Facepile-empty {
+  display: none !important;
+}
+
+a.SidebarTeamMembersList-nuxInviteLink {
+  border-bottom: 1px dotted #848f99 !important;
+  color: #848f99 !important;
+  cursor: pointer !important;
+  fill: #848f99 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-size: 11px !important;
+  line-height: 17px !important;
+  min-width: unset !important;
+  border-radius: 0 !important;
+  margin-left: 10px !important;
+  padding: 0 !important;
+  height: fit-content !important;
+}
+
+.Button.Button--small.Button--primary.TopbarContingentUpgradeButton-button.TopbarPageHeaderGlobalActions-upgradeButton {
+  display: none !important;
+}
+
+.Button.Button--medium.Button--primary.PortfolioIndexPromotionOverlay-upgradeButton {
+  display: none !important;
+}
+
+a.ExternalLink.PortfolioIndexPromotionOverlay-learnMoreLink {
+  display: none !important;
+}
+
+a.NavigationLink.SidebarHeader-asanaLogo {
+  -webkit-app-region: drag !important;
+}
+
+.AsanaPageTopbar {
+  -webkit-app-region: drag !important;
+}
+
+.ExpandSidebarButton {
+  margin-left: 11px !important;
+  margin-right: 31px !important;
+  margin-top: 18px !important;
+}
+
+.SidebarHeader-sideBurgerIcon:hover {
+  fill: #646f79 !important;
+}
+
+a.ExpandSidebarButton--shouldHide.ExpandSidebarButton {
+  display: none !important;
+}
